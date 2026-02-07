@@ -1,0 +1,26 @@
+a=10
+b=20
+c=30
+
+print("the first number is", a)
+print ("its type is", type(a))
+print(type(a))
+
+print("the second number is", b)
+
+print ("its type is", type(b))
+
+print("the third number is", c)
+print ("its type is", type(c))  
+
+
+print("the sum of a and b is", a+b)
+print("the difference of a and b is", a-b)
+print("the product of a and b is", a*b)
+print("the division of a and b is", a/b)
+
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
